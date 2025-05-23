@@ -1,4 +1,6 @@
 # 🏥 Hospital Emergency Room (Interactive Excel Dashboard)
+
+
 This is a learning project where I developed an interactive Excel dashboard to analyze hospital emergency room operations. The goal was to practice data cleaning, modeling, and visualization using Excel's advanced features, while providing clear and actionable insights for healthcare decision-making.
 
 ## 📊 Project Highlights
@@ -31,7 +33,7 @@ Department Referrals
 ✅ Clean, user-friendly dashboard layout for easy interpretation
 
 ## 🛠 Tools & Technologies
-- <a href="https://github.com/simhadrisunil/Hospital-Emergency-Room-Excel-dashboed/blob/main/Hospital%20Emergency%20Room%20Data.csv"> Date_set</a>
+- <a href="https://github.com/simhadrisunil/Hospital-Emergency-Room-Excel-dashboed/blob/main/Hospital%20Emergency%20Room%20Data.csv"> Data_set</a>
 
 Microsoft Excel
 
@@ -42,5 +44,7 @@ Power Pivot
 DAX (Data Analysis Expressions)
 
 ## 📚 Learning Outcome
+
+- <a href="https://github.com/simhadrisunil/Hospital-Emergency-Room-Excel-dashboed/blob/main/Hospital%20Emergency%20Dashbord.xlsx">Final_Dashbord</a>
 
 This project helped me strengthen my skills in Excel-based data analytics, especially in data transformation, DAX calculations, and dashboard design. It also improved my understanding of how data can drive better decisions in real-world domains like healthcare.
