@@ -1,5 +1,5 @@
 # 🏥 Hospital Emergency Room (Interactive Excel Dashboard)
-![Hospital Dashboard Final ](https://github.com/user-attachments/assets/91be1b4a-f3f0-4633-b701-0ca344db635c)
+![dashbord screenshort](https://github.com/user-attachments/assets/e6f44490-6cf5-41ec-bee1-891bbfe3c85f)
 
 This is a learning project where I developed an interactive Excel dashboard to analyze hospital emergency room operations. The goal was to practice data cleaning, modeling, and visualization using Excel's advanced features, while providing clear and actionable insights for healthcare decision-making.
 
